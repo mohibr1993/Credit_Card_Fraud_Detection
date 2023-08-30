@@ -74,8 +74,7 @@ The project relies on various external libraries for its functionality. Here are
 - imblearn: A library for handling imbalanced datasets, including resampling techniques.
 
 ## Dataset-source-and-description
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card holders from Taiwan from April 2005 to September 2005.
-
+**Data Source**
 Link : [https://www.kaggle.com/uciml/defaultof-credit-cardclients-dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
