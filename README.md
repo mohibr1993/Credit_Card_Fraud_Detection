@@ -49,7 +49,7 @@ example : `pip install numpy`
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git
 cd Credit_Card_Fraud_Detection
 
@@ -59,7 +59,7 @@ cd Credit_Card_Fraud_Detection
 
 Install the required Python packages:
 
-```bash
+
 pip install -r requirements.txt
 The project relies on various external libraries for its functionality. Here are some of the key libraries you'll be using:
 
@@ -87,7 +87,7 @@ We welcome contributions to the  Credit Card Fraud Detector project from the com
 If you have any questions, suggestions, or feedback, feel free to reach out to us. You can contact the project maintainers through the following channels:
 
 - Project Maintainer: [mohibr1993](mailto:m.e.mohibr@gmail.com)
-- GitHub Issues:  [Report Problems and Suggest Features](https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git/issues
+- GitHub Issues:  [Report Problems and Suggest Features](https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git/issues)
 
 We appreciate your interest in the Credit Card Fraud Detector project and look forward to hearing from you!
 
