@@ -49,9 +49,11 @@ example : `pip install numpy`
 
 ### Clone the Repository
 
+command line : 
 
-git clone https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git
-cd Credit_Card_Fraud_Detection
+- git clone https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git
+
+- cd Credit_Card_Fraud_Detection
 
 ### Install Dependencies
 
@@ -63,20 +65,20 @@ Install the required Python packages:
 pip install -r requirements.txt
 The project relies on various external libraries for its functionality. Here are some of the key libraries you'll be using:
 
--numpy: A library for numerical operations and linear algebra.
--pandas: A library for data processing and analysis, including CSV file I/O.
--tensorflow: A machine learning framework for building and training models.
--matplotlib: A plotting library for creating visualizations.
--seaborn: A data visualization library based on Matplotlib, providing additional aesthetics.
--sklearn: The scikit-learn library provides various machine learning algorithms and tools.
--imblearn: A library for handling imbalanced datasets, including resampling techniques.
+- numpy: A library for numerical operations and linear algebra.
+- pandas: A library for data processing and analysis, including CSV file I/O.
+- tensorflow: A machine learning framework for building and training models.
+- matplotlib: A plotting library for creating visualizations.
+- seaborn: A data visualization library based on Matplotlib, providing additional aesthetics.
+- sklearn: The scikit-learn library provides various machine learning algorithms and tools.
+- imblearn: A library for handling imbalanced datasets, including resampling techniques.
 
 
 ## Contributing
 
 We welcome contributions to the  Credit Card Fraud Detector project from the community. If you're interested in contributing, please follow these guidelines:
 
-- **Issues**: If you encounter any issues or have suggestions, feel free to open an issue on our [Report Problems and Suggest Features](https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git/issues. Please provide a clear description of the problem or suggestion.
+- **Issues**: If you encounter any issues or have suggestions, feel free to open an issue on our [Report Problems and Suggest Features](https://github.com/mohibr1993/Credit_Card_Fraud_Detection.git/issues). Please provide a clear description of the problem or suggestion.
 
 - **Feature Requests**: If you have an idea for a new feature, you can also open an issue to discuss it. We value your input and would love to hear about your ideas.
 
