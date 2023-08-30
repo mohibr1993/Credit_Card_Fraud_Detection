@@ -88,6 +88,43 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 Update (03/05/2021)
 A simulator for transaction data has been released as part of the practical handbook on Machine Learning for Credit Card Fraud Detection - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html. We invite all practitioners interested in fraud detection datasets to also check out this data simulator, and the methodologies for credit card fraud detection presented in the book.
 
+
+The Credit Card Fraud Detection dataset has 28 features, which are:
+
+- Time: The time of the transaction in seconds since the first transaction in the dataset.
+- Amount: The amount of the transaction in euros.
+- Class: The class of the transaction, which is 1 for fraud and 0 for non-fraud.
+- V1: The difference in the amount of the current transaction and the previous transaction.
+- V2: The difference in the amount of the current transaction and the mean amount of the previous 28 transactions.
+- V3: The difference in the amount of the current transaction and the median amount of the previous 28 transactions.
+- V4: The ratio of the amount of the current transaction to the mean amount of the previous 28 transactions.
+- V5: The ratio of the amount of the current transaction to the median amount of the previous 28 transactions.
+- V6: The standard deviation of the amount of the previous 28 transactions.
+- V7: The skewness of the amount of the previous 28 transactions.
+- V8: The kurtosis of the amount of the previous 28 transactions.
+- V9: The number of times the same merchant has been used in the previous 28 transactions.
+- V10: The number of times the same product has been purchased in the previous 28 transactions.
+- V11: The number of days since the customer's last transaction.
+- V12: The customer's age.
+- V13: The customer's gender.
+- V14: The customer's city.
+- V15: The customer's state.
+- V16: The customer's country.
+- V17: The merchant's city.
+- V18: The merchant's state.
+- V19: The merchant's country.
+- V20: The type of card used.
+- V21: The day of the week the transaction occurred.
+- V22: The hour of the day the transaction occurred.
+- V23: The weekend flag (1 if the transaction occurred on a weekend, 0 otherwise).
+- V24: The month the transaction occurred.
+- V25: The year the transaction occurred.
+- V26: The latitude of the customer's location.
+- V27: The longitude of the customer's location.
+- V28: The device type used for the transaction.
+
+The features V1 to V28 are **numerical features**. The feature Class is a **categorical feature**.
+
 ## Contributing
 
 We welcome contributions to the  Credit Card Fraud Detector project from the community. If you're interested in contributing, please follow these guidelines:
