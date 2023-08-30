@@ -6,7 +6,7 @@ Detect and prevent credit card fraud in real-time using advanced machine learnin
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Dataset](#Dataset Source and Description]
+- [Dataset](#dataset-source-and-description)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -73,7 +73,7 @@ The project relies on various external libraries for its functionality. Here are
 - sklearn: The scikit-learn library provides various machine learning algorithms and tools.
 - imblearn: A library for handling imbalanced datasets, including resampling techniques.
 
-## Dataset Source and Description
+## Dataset-source-and-description
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card holders from Taiwan from April 2005 to September 2005.
 
 Link : [https://www.kaggle.com/uciml/defaultof-credit-cardclients-dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
@@ -97,6 +97,11 @@ We welcome contributions to the  Credit Card Fraud Detector project from the com
 - **Feature Requests**: If you have an idea for a new feature, you can also open an issue to discuss it. We value your input and would love to hear about your ideas.
 
 - **Pull Requests**: If you want to contribute code, you can fork the repository, make your changes, and submit a pull request. Please ensure your code follows our coding standards and practices.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md). By contributing to this project, you agree to abide by the terms of this license.
 
 ## Contact
 
