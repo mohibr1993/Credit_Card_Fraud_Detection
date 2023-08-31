@@ -88,7 +88,7 @@ Update (03/05/2021)
 A simulator for transaction data has been released as part of the practical handbook on Machine Learning for Credit Card Fraud Detection - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html. We invite all practitioners interested in fraud detection datasets to also check out this data simulator, and the methodologies for credit card fraud detection presented in the book.
 
 
-The Credit Card Fraud Detection dataset has 28 features, which are:
+The Credit Card Fraud Detection dataset has 28 features, below description is expectation for what the data , it's just to simplify understant of data and credit card field , it's may true or false :
 
 - Time: The time of the transaction in seconds since the first transaction in the dataset.
 - Amount: The amount of the transaction in euros.
