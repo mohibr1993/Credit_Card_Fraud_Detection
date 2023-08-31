@@ -74,8 +74,7 @@ The project relies on various external libraries for its functionality. Here are
 - imblearn: A library for handling imbalanced datasets, including resampling techniques.
 
 ## Dataset-source-and-description
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card holders from Taiwan from April 2005 to September 2005.
-
+**Data Source**
 Link : [https://www.kaggle.com/uciml/defaultof-credit-cardclients-dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
@@ -89,7 +88,7 @@ Update (03/05/2021)
 A simulator for transaction data has been released as part of the practical handbook on Machine Learning for Credit Card Fraud Detection - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html. We invite all practitioners interested in fraud detection datasets to also check out this data simulator, and the methodologies for credit card fraud detection presented in the book.
 
 
-The Credit Card Fraud Detection dataset has 28 features, which are:
+The Credit Card Fraud Detection dataset has 28 features, below description is expectation for what the data , it's just to simplify understant of data and credit card field , it's may true or false :
 
 - Time: The time of the transaction in seconds since the first transaction in the dataset.
 - Amount: The amount of the transaction in euros.
